@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "com.one_studio.mixin.client",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"ExampleClientMixin",
+		"MinecraftClientAccessor"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
