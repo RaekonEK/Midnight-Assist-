@@ -3,8 +3,7 @@
 	"package": "com.one_studio.mixin.client",
 	"compatibilityLevel": "JAVA_21",
 	"client": [
-		"ExampleClientMixin",
-		"MinecraftClientAccessor"
+		"ExampleClientMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

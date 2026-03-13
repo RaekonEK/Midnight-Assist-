@@ -1,0 +1,8 @@
+{
+  "key.midnight-assisit.toggle": "Toggle Midnight Assisit",
+  "category.midnight-assisit": "Midnight Assisit",
+  "title.midnight-assisit.config": "Midnight Assisit Configuration",
+  "category.midnight-assisit.general": "General Settings",
+  "option.midnight-assisit.global_enabled": "Global Enabled",
+  "category.midnight-assisit.entities": "Target Entities"
+}
